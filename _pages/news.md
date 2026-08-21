@@ -11,6 +11,10 @@ header:
 <summary><h3>2026</h3></summary>
 <div markdown="1">
 
+**[Aug 2026]** In the past summer, we are lucky to have [**Ella** and **Cheli**](/members#undergraduate-researchers) in the group. Ella is an Aresty Summer Science Scholar and Cheli is a RISE scholar from the University of Puerto Rico. Both of them worked with their graduate mentor [**Nizam** and **Basil**](/members#graduate-students) on the [SaBRe](https://sabreproject.org/) project to enhance Sargassum valorization through anaerobic digestion with hydrothermal pretreatment. They both presented their work at the 2026 [Summer Research Symposium](https://aresty.rutgers.edu/research-showcase/undergraduate-research-symposium) and at SaBRe's team meeting.
+{: .notice--yellow}
+<img src='/images/news/2026-07-30_summer_symposium.png' alt='Ella and Cheli' width='100%' id='image'>
+
 **[May 2026]** The C3W (Carbon Capture with Concrete Waste) team from Rutgers are winners of the [2026 OpenAir Carbon Removal Challenge](https://openaircollective.com/crc/). [**Yu**](/members#graduate-students) and her teammates from the Riman group of Rutgers Materials Science and Engineering (Jack Kaszas, Noemie Denis, Ranuri Dissanayaka Mudiyanselage, Karna Krishna, Richie Campbell, Alex Golub) will present their final showcase at the [Carbon Unbound East Coast Summit 2026](https://www.carbonunbound.com/).
 {: .notice--green}
 <img src='/images/news/2026-05_openair_challenge.png' alt='OpenAir Carbon Removal Challenge 2026' width='80%' id='image'>
@@ -65,7 +69,7 @@ We also received an [AEESP Foundation Education Grant](https://aeespfoundation.o
 **[Sep 2025]** New members and new group photo for the new academic year! [**Shirui**](/members#graduate-students) joined the group as a Ph.D. student to work on the hydrothermal conversion of microplastics, and [**Marali**](/members#undergraduate-researchers) is working on updating the bioenergy potential of New Jersey.
 {: .notice--blue}
 
-**[Aug 2025]** Over the summer, [**Vicky**](/members#undergraduate-researchers) explored how reaction conditions would affect the efficacy of hydrothermal treatment of seaweed. She presented her work at the 2025 Summer Research Symposium. Also a big shout-out to her grad mentor [**Basil**](/members#graduate-students)! 
+**[Aug 2025]** Over the summer, [**Vicky**](/members#undergraduate-researchers) explored how reaction conditions would affect the efficacy of hydrothermal treatment of seaweed. She presented her work at the 2025 [Summer Research Symposium](https://aresty.rutgers.edu/research-showcase/undergraduate-research-symposium). Also a big shout-out to her grad mentor [**Basil**](/members#graduate-students)! 
 {: .notice--yellow}
 <img src='/images/news/2025-07-31_summer_symposium.jpg' alt='Vicky and her poster' width='30%' id='image'>
 
