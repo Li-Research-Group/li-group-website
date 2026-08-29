@@ -25,8 +25,8 @@ email                    : 'mailto.yalin.li@gmail.com'
 description              : &description 'Li Research Group website'
 url                      : 'https://localhost:4000' # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : '' # the subpath of your site, e.g. "/blog"
-github_username          : 'yalinli2'
-repository               : 'yalinli2/Li-Group'
+github_username          : 'Li-Research-Group'
+repository               : 'Li-Research-Group/li-group-website'
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # logo                     : '/images/rutgers.png' # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
