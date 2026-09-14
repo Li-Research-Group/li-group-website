@@ -11,7 +11,10 @@ header:
 <summary><h3>2026</h3></summary>
 <div markdown="1">
 
-**[Aug 2026]** In the past summer, we are lucky to have [**Ella** and **Cheli**](/members#undergraduate-researchers) in the group. Ella is an Aresty Summer Science Scholar and Cheli is a RISE scholar from the University of Puerto Rico. Both of them worked with their graduate mentor [**Nizam** and **Basil**](/members#graduate-students) on the [SaBRe](https://sabreproject.org/) project to enhance Sargassum valorization through anaerobic digestion with hydrothermal pretreatment. They both presented their work at the 2026 [Summer Research Symposium](https://aresty.rutgers.edu/research-showcase/undergraduate-research-symposium) and at SaBRe's team meeting.
+**[Sept. 2026]** This new year, we welcome [**Nishka** and **Abhitej**](/members#undergraduate-researchers) in the group. Nishka will join the SaBRe team to continue develop anaerobic and hydrothermal technologies for valuable projects from Sargassum, and Abhitej will work to develop for a more accesible interface to the open-source software [BioSTEAM](https://biosteam.readthedocs.io/en/latest/).
+{: .notice--blue}
+
+**[Aug. 2026]** In the past summer, we are lucky to have [**Ella** and **Cheli**](/members#undergraduate-researchers) in the group. Ella is an Aresty Summer Science Scholar and Cheli is a RISE scholar from the University of Puerto Rico. Both of them worked with their graduate mentor [**Nizam** and **Basil**](/members#graduate-students) on the [SaBRe](https://sabreproject.org/) project to enhance Sargassum valorization through anaerobic digestion with hydrothermal pretreatment. They both presented their work at the 2026 [Summer Research Symposium](https://aresty.rutgers.edu/research-showcase/undergraduate-research-symposium) and at SaBRe's team meeting.
 {: .notice--yellow}
 <img src='/images/news/2026-07-30_summer_symposium.png' alt='Ella and Cheli' width='100%' id='image'>
 
@@ -19,22 +22,22 @@ header:
 {: .notice--green}
 <img src='/images/news/2026-05_openair_challenge.png' alt='OpenAir Carbon Removal Challenge 2026' width='80%' id='image'>
 
-**[April 2026]** [Rutgers Day](https://newbrunswick.rutgers.edu/rutgers-day) is here again! Thanks to [**Charlotte**](/members#undergraduate-researchers), [**Shirui**](/members#graduate-students), [**Yu**](/members#graduate-students), [**Nizam**](/members#graduate-students), and [**Basil**](/members#graduate-students) who helped run the show!
+**[Apr. 2026]** [Rutgers Day](https://newbrunswick.rutgers.edu/rutgers-day) is here again! Thanks to [**Charlotte**](/members#undergraduate-researchers), [**Shirui**](/members#graduate-students), [**Yu**](/members#graduate-students), [**Nizam**](/members#graduate-students), and [**Basil**](/members#graduate-students) who helped run the show!
 {: .notice--yellow}
 <img src='/images/news/2026-04-25_rutgers_day.png' alt='Rutgers Day 2026' width='100%' id='image'>
 
-**[April 2026]** For his work on food waste recycling, [**Ali**](/members#graduate-students) won a ReFED Scholarship and was invited to the [ReFED Food Waste Solutions Summit 2026](https://summit.refed.org/) in Charlotte, North Carolina on May 19-21, 2026.
+**[Apr. 2026]** For his work on food waste recycling, [**Ali**](/members#graduate-students) won a ReFED Scholarship and was invited to the [ReFED Food Waste Solutions Summit 2026](https://summit.refed.org/) in Charlotte, North Carolina on May 19-21, 2026.
 {: .notice--green}
 
-**[April 2026]** April is a busy month! We kicked off the month with the [SaBRe](https://sabreproject.org/) annual meeting at Rutgers, presenting work from [**Nizam**](/members#graduate-students), [**Basil**](/members#graduate-students), and [**Vicky**](/members#undergraduate-researchers). Shirui presented here work at the [Hudson-Delaware Chapter (HDC) Society of Environmental Toxicology and Chemistry (SETAC) Regional Meeting](https://hdcsetac.wildapricot.org/). And [**Ali**](/members#graduate-students) successfully passed his proposal defense!
+**[Apr. 2026]** April is a busy month! We kicked off the month with the [SaBRe](https://sabreproject.org/) annual meeting at Rutgers, presenting work from [**Nizam**](/members#graduate-students), [**Basil**](/members#graduate-students), and [**Vicky**](/members#undergraduate-researchers). Shirui presented here work at the [Hudson-Delaware Chapter (HDC) Society of Environmental Toxicology and Chemistry (SETAC) Regional Meeting](https://hdcsetac.wildapricot.org/). And [**Ali**](/members#graduate-students) successfully passed his proposal defense!
 {: .notice--yellow}
 <img src='/images/news/2026-04_presentations.png' alt='SaBRe and SETAC' width='80%' id='image'>
 
-**[Jan 2026]** [**Nizam**](/members#graduate-students) and [**Charlotte**](/members#undergraduate-researchers) presented their work at the [NJ AWWA One Water Symposium](https://www.njawwa.org/events/EventDetails.aspx?id=2018334). As a member of the NJ AWWA chapter at Rutgers, Charlotte also help organization on the event day.
+**[Jan. 2026]** [**Nizam**](/members#graduate-students) and [**Charlotte**](/members#undergraduate-researchers) presented their work at the [NJ AWWA One Water Symposium](https://www.njawwa.org/events/EventDetails.aspx?id=2018334). As a member of the NJ AWWA chapter at Rutgers, Charlotte also help organization on the event day.
 {: .notice--yellow}
 <img src='/images/news/2026-01-15_one_water.png' alt='Nizam and Charlotte at the symposium' width='60%' id='image'>
 
-**[Jan 2026]** New Year and new members. [**Cesar**](/members#postdoctoral-researcher) joined the group as a postdoctoral researcher for the CFIRE project on the process design and TEA of cell-free systems. We are also hosting **Elene Burdiashvili** as an undergraduate researcher for the SUPER program. Welcome both!
+**[Jan. 2026]** New Year and new members. [**Cesar**](/members#postdoctoral-researcher) joined the group as a postdoctoral researcher for the CFIRE project on the process design and TEA of cell-free systems. We are also hosting **Elene Burdiashvili** as an undergraduate researcher for the SUPER program. Welcome both!
 {: .notice--blue}
 
 </div>
@@ -44,29 +47,29 @@ header:
 <summary><h3>2025</h3></summary>
 <div markdown="1">
 
-**[Dec 2025]** **Ali**'s first paper as the lead author, **Financial Viability and Carbon Intensity of Hydrothermal Waste Valorization Systems for Bio-Based Asphalt Binder** has been accepted by *Chemical Engineering Journal*! Congrats [**Ali**](/members#graduate-students) on wrapping up the year on a high note. Read the [**Paper**](https://doi.org/10.1016/j.cej.2025.172283).
+**[Dec. 2025]** **Ali**'s first paper as the lead author, **Financial Viability and Carbon Intensity of Hydrothermal Waste Valorization Systems for Bio-Based Asphalt Binder** has been accepted by *Chemical Engineering Journal*! Congrats [**Ali**](/members#graduate-students) on wrapping up the year on a high note. Read the [**Paper**](https://doi.org/10.1016/j.cej.2025.172283).
 {: .notice--gray}
 
-**[Nov 2025]** [**Yu**](/members#graduate-students) presented her work on the cost and environmental impact analyses of low-carbon pathways for cement recovery from waste concrete at the [Rutgers Climate Symposium 2025](https://ruclimatesymposium.rutgers.edu/). (photo credit: [**Shirui**](/members#graduate-students))
+**[Nov. 2025]** [**Yu**](/members#graduate-students) presented her work on the cost and environmental impact analyses of low-carbon pathways for cement recovery from waste concrete at the [Rutgers Climate Symposium 2025](https://ruclimatesymposium.rutgers.edu/). (photo credit: [**Shirui**](/members#graduate-students))
 {: .notice--yellow}
 <img src='/images/news/2025-11-12_zhou_climate_symposium.png' alt='Yu poster presentation' width='60%' id='image'>
 
-**[Nov 2025]** [**Ali**](/members#graduate-students) presented his work on the economic and environmental assessment of hydrothermal valorization of US organic waste at the [2025 AIChE Annual Meeting](https://www.aiche.org/conferences/aiche-annual-meeting/2025).
+**[Nov. 2025]** [**Ali**](/members#graduate-students) presented his work on the economic and environmental assessment of hydrothermal valorization of US organic waste at the [2025 AIChE Annual Meeting](https://www.aiche.org/conferences/aiche-annual-meeting/2025).
 {: .notice--yellow}
 
-**[Oct 2025]** Two new projects awarded to the group! We joined the [SaBRe](https://sabreproject.org/) (*Sargassum* Biorefinery) project to leverage anaerobic digestion for valuable products from the *Sargassum* seaweed. SaBRe is one of the Virtual Institute on Feedstocks of the Future (VIFF) funded by the Schmidt Sciences, which aims to support science, technology, and engineering research towards the use of underutilized biomass as alternative feedstocks for biomanufacturing.
+**[Oct. 2025]** Two new projects awarded to the group! We joined the [SaBRe](https://sabreproject.org/) (*Sargassum* Biorefinery) project to leverage anaerobic digestion for valuable products from the *Sargassum* seaweed. SaBRe is one of the Virtual Institute on Feedstocks of the Future (VIFF) funded by the Schmidt Sciences, which aims to support science, technology, and engineering research towards the use of underutilized biomass as alternative feedstocks for biomanufacturing.
 {: .notice--green}
 
 We also received an [AEESP Foundation Education Grant](https://aeespfoundation.org/grants), where we will collaborate with the New Jersey 4-H to advocate sustainable food waste management through youth voices. Look forward to get our work started!
 {: .notice--green}
 
-**[Sep 2025]** We are hiring a postdoc for CFIRE (see news below). Check out the [**Join**](/join) page for details! (*APPLICATION CLOSED*)
+**[Sept. 2025]** We are hiring a postdoc for CFIRE (see news below). Check out the [**Join**](/join) page for details! (*APPLICATION CLOSED*)
 {: .notice--blue}
 
-**[Sep 2025]** We are part of NSF's >$32 MM [CFIRE](https://cee.rutgers.edu/cee-professor-awarded-nsf-cfire-grant-speed-use-cell-free-systems-grow-bioeconomy) initiative to accelerate the adoption of cell-free systems. Our project, [Ideas Lab: CFIRE: PRESENT: PRotein Evolution in Spore-ENabled TXTL Systems](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2452693), is a collaboration between Rutgers and [Caravel Bio.](https://www.caravel.bio/), California Institute of Technology ([Dr. Kaihang Wang](https://www.bbe.caltech.edu/people/kaihang-wang)), [Avery Bio.](https://averybio.com/), and Oregon State University ([Dr. Ryan Mehl](https://science.oregonstate.edu/directory/ryan-mehl)).
+**[Sept. 2025]** We are part of NSF's >$32 MM [CFIRE](https://cee.rutgers.edu/cee-professor-awarded-nsf-cfire-grant-speed-use-cell-free-systems-grow-bioeconomy) initiative to accelerate the adoption of cell-free systems. Our project, [Ideas Lab: CFIRE: PRESENT: PRotein Evolution in Spore-ENabled TXTL Systems](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2452693), is a collaboration between Rutgers and [Caravel Bio.](https://www.caravel.bio/), California Institute of Technology ([Dr. Kaihang Wang](https://www.bbe.caltech.edu/people/kaihang-wang)), [Avery Bio.](https://averybio.com/), and Oregon State University ([Dr. Ryan Mehl](https://science.oregonstate.edu/directory/ryan-mehl)).
 {: .notice--green}
 
-**[Sep 2025]** New members and new group photo for the new academic year! [**Shirui**](/members#graduate-students) joined the group as a Ph.D. student to work on the hydrothermal conversion of microplastics, and [**Marali**](/members#undergraduate-researchers) is working on updating the bioenergy potential of New Jersey.
+**[Sept. 2025]** New members and new group photo for the new academic year! [**Shirui**](/members#graduate-students) joined the group as a Ph.D. student to work on the hydrothermal conversion of microplastics, and [**Marali**](/members#undergraduate-researchers) is working on updating the bioenergy potential of New Jersey.
 {: .notice--blue}
 
 **[Aug 2025]** Over the summer, [**Vicky**](/members#undergraduate-researchers) explored how reaction conditions would affect the efficacy of hydrothermal treatment of seaweed. She presented her work at the 2025 [Summer Research Symposium](https://aresty.rutgers.edu/research-showcase/undergraduate-research-symposium). Also a big shout-out to her grad mentor [**Basil**](/members#graduate-students)! 
@@ -80,7 +83,7 @@ We also received an [AEESP Foundation Education Grant](https://aeespfoundation.o
 {: .notice--yellow}
 <img src='/images/news/2025-05_aeesp.png' alt='Yalin, Maggie, and Jason presentations' width='100%' id='image'>
 
-**[Apr 2025]** It's been a busy April for the group. I visited National University of Singapore and gave a talk at Nanyang Technological University (thanks to my host Profs. [**Bin CAO**](https://dr.ntu.edu.sg/cris/rp/rp00248), [**Xunchang FEI**](https://dr.ntu.edu.sg/cris/rp/rp00435) [pictured], and [**Qianhong SHE**](https://dr.ntu.edu.sg/cris/rp/rp00187)).
+**[Apr. 2025]** It's been a busy April for the group. I visited National University of Singapore and gave a talk at Nanyang Technological University (thanks to my host Profs. [**Bin CAO**](https://dr.ntu.edu.sg/cris/rp/rp00248), [**Xunchang FEI**](https://dr.ntu.edu.sg/cris/rp/rp00435) [pictured], and [**Qianhong SHE**](https://dr.ntu.edu.sg/cris/rp/rp00187)).
 {: .notice--yellow}
 
 [**Jason** and **Maggie**](/members#undergraduate-researchers) presented their Aresty Research Project at the [Undergraduate Research Symposium](https://aresty.rutgers.edu/research-showcase/undergraduate-research-symposium).
@@ -95,7 +98,7 @@ We are featured in the Rutgers [post](https://newbrunswick.rutgers.edu/news/spit
 {: .notice--yellow}
 <img src='/images/news/2025-04-26_rutgers_day2.png' alt='Rutgers Day 2025' width='50%' id='image'>
 
-**[Jan 2025]** Happy New Year! Our [group](/members) is growing! **Basil** joined the group in Fall 2024 while **Nizam** and **Yu** started this Spring. **Jason**, **Charlotte**, and **Maggie** have also been working on their Aresty projects/independent study since Fall 2024.
+**[Jan. 2025]** Happy New Year! Our [group](/members) is growing! **Basil** joined the group in Fall 2024 while **Nizam** and **Yu** started this Spring. **Jason**, **Charlotte**, and **Maggie** have also been working on their Aresty projects/independent study since Fall 2024.
 {: .notice--blue}
 
 </div>
@@ -105,33 +108,33 @@ We are featured in the Rutgers [post](https://newbrunswick.rutgers.edu/news/spit
 <summary><h3>2024</h3></summary>
 <div markdown="1">
 
-**[Oct 2024]** [**Ali**](/members#graduate-students) presented his work on the data-driven model for HTL biocrude prediction and techno-economic analysis at the [2024 AIChE Annual Meeting](https://www.aiche.org/conferences/aiche-annual-meeting/2024).
+**[Oct. 2024]** [**Ali**](/members#graduate-students) presented his work on the data-driven model for HTL biocrude prediction and techno-economic analysis at the [2024 AIChE Annual Meeting](https://www.aiche.org/conferences/aiche-annual-meeting/2024).
 {: .notice--yellow}
 <img src='/images/news/2024-10-28_ahmad_aiche.png' alt='Ali presenting his research' width='50%' id='image'>
 
-**[Sep 2024]** We are hiring one postdoc for PreFerS. **This position is based in Singapore.** Check out the [**Join**](/join) page for details! (*APPLICATION CLOSED*)
+**[Sept. 2024]** We are hiring one postdoc for PreFerS. **This position is based in Singapore.** Check out the [**Join**](/join) page for details! (*APPLICATION CLOSED*)
 {: .notice--blue}
 
-**[Aug 2024]** We are hiring two funded graduate student position for Spring/Summer 2025 (see the hydrothermal microplastics grant and the zero-carbon cement grant announcement below). Check out the [**Join**](/join) page for details! (*APPLICATION CLOSED*)
+**[Aug. 2024]** We are hiring two funded graduate student position for Spring/Summer 2025 (see the hydrothermal microplastics grant and the zero-carbon cement grant announcement below). Check out the [**Join**](/join) page for details! (*APPLICATION CLOSED*)
 {: .notice--blue}
 
-**[Aug 2024]** We are on the Rutgers team that received an award from the US Army Corps of Engineers! Working with the [**Riman**](https://riman.rutgers.edu/) and [**Sills**](https://mmod.rutgers.edu/) group at Rutgers MSE and the [**Nassif**](https://rime.rutgers.edu/) group at Rutgers CEE, we will develop cost effective and zero-carbon cement using recycled concrete rubble.
+**[Aug. 2024]** We are on the Rutgers team that received an award from the US Army Corps of Engineers! Working with the [**Riman**](https://riman.rutgers.edu/) and [**Sills**](https://mmod.rutgers.edu/) group at Rutgers MSE and the [**Nassif**](https://rime.rutgers.edu/) group at Rutgers CEE, we will develop cost effective and zero-carbon cement using recycled concrete rubble.
 {: .notice--green}
 
-**[Aug 2024]** Our group was awarded an [**NSF CBET grant**](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2427988)! We will lead an effort to investigate the fate and conversion mechanism of microplastics during hydrothermal valorization of wet organic waste. This is a collaboration between us and the [**Fahrenfeld**](https://sites.google.com/site/nicolefahrenfeld) group (Rutgers CEE) as well as the [**Arbuckle-Keil**](https://arbuckle.camden.rutgers.edu/) group (Chemistry at Rutgers-Camden).
+**[Aug. 2024]** Our group was awarded an [**NSF CBET grant**](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2427988)! We will lead an effort to investigate the fate and conversion mechanism of microplastics during hydrothermal valorization of wet organic waste. This is a collaboration between us and the [**Fahrenfeld**](https://sites.google.com/site/nicolefahrenfeld) group (Rutgers CEE) as well as the [**Arbuckle-Keil**](https://arbuckle.camden.rutgers.edu/) group (Chemistry at Rutgers-Camden).
 {: .notice--green}
 
-**[Aug 2024]** We are one of the awardees of the New Jersey Water Resources Research Institute (NJWRRI)-USGS [**Annual Grants**](https://njwrri.rutgers.edu/njwrri_funding.htm)! Our project will evaluate an intensive microalgal process to reduce point source phosphorus load from wastewater in order to reduce eutrophication and protect our natural waters.
+**[Aug. 2024]** We are one of the awardees of the New Jersey Water Resources Research Institute (NJWRRI)-USGS [**Annual Grants**](https://njwrri.rutgers.edu/njwrri_funding.htm)! Our project will evaluate an intensive microalgal process to reduce point source phosphorus load from wastewater in order to reduce eutrophication and protect our natural waters.
 {: .notice--green}
 
-**[Jul 2024]** We are one of the awardees of the inaugural Groundwork Grants by the Rutgers Climate and Energy Institute (RCEI). This grant will enable us to develop technologies to convert Alaskan kelp (a renewable biomass feedstock) into value-added bioproducts and low-carbon fuels. Read the [**News Release**](https://rcei.rutgers.edu/rcei-groundwork-grants-to-address-climate-and-the-bioeconomy/).
+**[July 2024]** We are one of the awardees of the inaugural Groundwork Grants by the Rutgers Climate and Energy Institute (RCEI). This grant will enable us to develop technologies to convert Alaskan kelp (a renewable biomass feedstock) into value-added bioproducts and low-carbon fuels. Read the [**News Release**](https://rcei.rutgers.edu/rcei-groundwork-grants-to-address-climate-and-the-bioeconomy/).
 {: .notice--green}
 
-**[Aug 2024]** [**Naman**, **Xavier**, and **Venus**](/members#undergraduate-researchers) (left to right in the photo) presented their work at the [2024 Summer Research Symposium](https://lsamp-nb.rutgers.edu/summer-research-symposium-2024). Congrats on the great presentations and thank you all for the hard work this summer!
+**[Aug. 2024]** [**Naman**, **Xavier**, and **Venus**](/members#undergraduate-researchers) (left to right in the photo) presented their work at the [2024 Summer Research Symposium](https://lsamp-nb.rutgers.edu/summer-research-symposium-2024). Congrats on the great presentations and thank you all for the hard work this summer!
 {: .notice--yellow}
 <img src='/images/news/2024-08-01_summer_symposium.png' alt='Naman, Xavier, and Venus presentations' width='100%' id='image'>
 
-**[Jul 2024]** The paper **Assessing the Relative Sustainability of Point-of-Use Water Disinfection Technologies for Off-Grid Communities** has been accepted by *ACS Environmental Au*. Congrats [**Ali**](/members#graduate-students) to this first publication at Rutgers! Read the [**Paper**](https://doi.org/10.1021/acsenvironau.4c00017).
+**[July 2024]** The paper **Assessing the Relative Sustainability of Point-of-Use Water Disinfection Technologies for Off-Grid Communities** has been accepted by *ACS Environmental Au*. Congrats [**Ali**](/members#graduate-students) to this first publication at Rutgers! Read the [**Paper**](https://doi.org/10.1021/acsenvironau.4c00017).
 {: .notice--gray}
 
 **[May 2024]** I'm excited to be a part of the Centre for Precision Fermentation and Sustainability ([PreFerS](https://illinois-arcs.edu.sg/research/prefers/)), which strives to realize reliable and cost-effective production of safe, nutritious, and delicious foods in an urban context. Look forward to the groundbreaking work ahead! Read the [**News Release**](https://www.igb.illinois.edu/wheeler/article/148m-grant-supports-singapore-partnership-precision-fermentation).
@@ -141,17 +144,17 @@ We are featured in the Rutgers [post](https://newbrunswick.rutgers.edu/news/spit
 {: .notice--yellow}
 <img src='/images/news/2024-05-21_ahmad_ewri.jpg' alt='Ali explaining his research' width='70%' id='image'>
 
-**[Apr 2024]** The paper **Intensive Microalgal Cultivation and Tertiary Phosphorus Recovery from Wastewaters via the EcoRecover Process** has been accepted by *Environmental Science & Technology*. Read the [**Paper**](https://pubs.acs.org/doi/10.1021/acs.est.3c10264).
+**[Apr. 2024]** The paper **Intensive Microalgal Cultivation and Tertiary Phosphorus Recovery from Wastewaters via the EcoRecover Process** has been accepted by *Environmental Science & Technology*. Read the [**Paper**](https://pubs.acs.org/doi/10.1021/acs.est.3c10264).
 {: .notice--gray}
 
-**[Mar 2024]** [**Ali**](/members#graduate-students) presented his work on a machine-learning model for predicting the biocrude yield from hydrothermal liquefaction (HTL) at the 2024 [Rutgers Conference for Rising Stars in Graduate Research](https://ifh.rutgers.edu/events/event/rutgers-conference-for-rising-stars-in-graduate-research-2024/).
+**[Mar. 2024]** [**Ali**](/members#graduate-students) presented his work on a machine-learning model for predicting the biocrude yield from hydrothermal liquefaction (HTL) at the 2024 [Rutgers Conference for Rising Stars in Graduate Research](https://ifh.rutgers.edu/events/event/rutgers-conference-for-rising-stars-in-graduate-research-2024/).
 {: .notice--yellow}
 <img src='/images/news/2024-03-27_ahmad_rising star.jpg' alt='Ali explaining his research' width='30%' id='image'>
 
-**[Jan 2024]** We are hiring! One funded graduate student position for Fall 2024. Check out the [**Join**](/join) page for details! (*APPLICATION CLOSED*)
+**[Jan. 2024]** We are hiring! One funded graduate student position for Fall 2024. Check out the [**Join**](/join) page for details! (*APPLICATION CLOSED*)
 {: .notice--blue}
 
-**[Jan 2024]** Happy new year! The paper **Characterizing the Opportunity Space for Sustainable Hydrothermal Valorization of Wet Organic Wastes** has been accepted by *Environmental Science & Technology*. Read the [**Paper**](https://doi.org/10.1021/acs.est.3c07394).
+**[Jan. 2024]** Happy new year! The paper **Characterizing the Opportunity Space for Sustainable Hydrothermal Valorization of Wet Organic Wastes** has been accepted by *Environmental Science & Technology*. Read the [**Paper**](https://doi.org/10.1021/acs.est.3c07394).
 {: .notice--gray}
 
 </div>
@@ -173,25 +176,25 @@ We are featured in the Rutgers [post](https://newbrunswick.rutgers.edu/news/spit
 **[May 2023]** The paper **Advancing the Economic and Environmental Sustainability of the NEWgenerator Nonsewered Sanitation System** has been accepted by *ACS Environmental Au*. Read the [**Paper**](https://doi.org/10.1021/acsenvironau.3c00001).
 {: .notice--gray}
 
-**[Apr 2023]** I served on the Reviewer Panel for the **Data, Modeling, and Analysis** Program for the 2023 Department of Energy Bioenergy Technologies Office Project Review. [**Learn More**](https://www.energy.gov/eere/bioenergy/2023-project-peer-review).
+**[Apr. 2023]** I served on the Reviewer Panel for the **Data, Modeling, and Analysis** Program for the 2023 Department of Energy Bioenergy Technologies Office Project Review. [**Learn More**](https://www.energy.gov/eere/bioenergy/2023-project-peer-review).
 {: .notice--gray}
 
-**[Mar 2023]** The paper **DMsan: A Multi-Criteria Decision Analysis Framework and Package to Characterize Contextualized Sustainability of Sanitation and Resource Recovery Technologies** has been accepted by *ACS Environmental Au*. Read the [**Paper**](https://pubs.acs.org/doi/10.1021/acsenvironau.2c00067).
+**[Mar. 2023]** The paper **DMsan: A Multi-Criteria Decision Analysis Framework and Package to Characterize Contextualized Sustainability of Sanitation and Resource Recovery Technologies** has been accepted by *ACS Environmental Au*. Read the [**Paper**](https://pubs.acs.org/doi/10.1021/acsenvironau.2c00067).
 {: .notice--gray}
 
-**[Feb 2023]** I accepted the offer Rutgers and will be joining Rutgers this Fall!
+**[Feb. 2023]** I accepted the offer Rutgers and will be joining Rutgers this Fall!
 {: .notice--blue}
 
-**[Feb 2023]** The paper **Design of a High-Rate Wastewater Treatment Process for Energy and Water Recovery at Biorefineries** has been accepted by *ACS Sustainable Chemistry & Engineering*. Read the [**Paper**](https://doi.org/10.1021/acssuschemeng.2c07139) and the [**News Release**](https://cabbi.bio/wastewater-to-energy-new-treatment-process-can-improve-biorefinery-sustainability/).
+**[Feb. 2023]** The paper **Design of a High-Rate Wastewater Treatment Process for Energy and Water Recovery at Biorefineries** has been accepted by *ACS Sustainable Chemistry & Engineering*. Read the [**Paper**](https://doi.org/10.1021/acssuschemeng.2c07139) and the [**News Release**](https://cabbi.bio/wastewater-to-energy-new-treatment-process-can-improve-biorefinery-sustainability/).
 {: .notice--gray}
 
-**[Feb 2023]** The paper **Implications of Biorefinery Policy Incentives and Location-Specific Economic Parameters for the Financial Viability of Biofuels** has been accepted by *Environmental Science & Technology*. Read the [**Paper**](https://doi.org/10.1021/acs.est.2c07936).
+**[Feb. 2023]** The paper **Implications of Biorefinery Policy Incentives and Location-Specific Economic Parameters for the Financial Viability of Biofuels** has been accepted by *Environmental Science & Technology*. Read the [**Paper**](https://doi.org/10.1021/acs.est.2c07936).
 {: .notice--gray}
 
-**[Jan 2023]** The paper **Rewiring yeast metabolism for producing 2,3-butanediol and two downstream applications: Techno-economic analysis and life cycle assessment of methyl ethyl ketone (MEK) and agricultural biostimulant production** has been accepted by *Chemical Engineering Journal*. Read the [**Paper**](https://www.sciencedirect.com/science/article/pii/S1385894722043650).
+**[Jan. 2023]** The paper **Rewiring yeast metabolism for producing 2,3-butanediol and two downstream applications: Techno-economic analysis and life cycle assessment of methyl ethyl ketone (MEK) and agricultural biostimulant production** has been accepted by *Chemical Engineering Journal*. Read the [**Paper**](https://www.sciencedirect.com/science/article/pii/S1385894722043650).
 {: .notice--gray}
 
-**[Jan 2023]** I am part of the team that receive a $2.5 million grant from Department of Agriculture National Institute of Food and Agriculture’s (NIFA) [**Bioproduct Pilot Program**](https://www.nifa.usda.gov/grants/programs/bioproduct-pilot-program), on the conversion of biowaste into pavement materials. Read the [**News Release**](https://www.nifa.usda.gov/about-nifa/press-releases/usda-invests-95m-develop-new-bioproducts-agricultural-commodities).
+**[Jan. 2023]** I am part of the team that receive a $2.5 million grant from Department of Agriculture National Institute of Food and Agriculture’s (NIFA) [**Bioproduct Pilot Program**](https://www.nifa.usda.gov/grants/programs/bioproduct-pilot-program), on the conversion of biowaste into pavement materials. Read the [**News Release**](https://www.nifa.usda.gov/about-nifa/press-releases/usda-invests-95m-develop-new-bioproducts-agricultural-commodities).
 {: .notice--green}
 
 </div>

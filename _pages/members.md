@@ -101,28 +101,6 @@ Zhou:
         </strong>"
   image_width: 60%
 
-Du:
-  image_path: /images/members/vicky_du.jpg
-  alt: 'Photo of Vicky'
-  title: 'Vicky Du'
-  synopsis: 'Vicky is a rising sophomore majoring in Chemical Engineering at Rutgers University, with a strong interest in research areas such as sustainability, carbon capture, and biomedical applications. She joined the Li Research Group as a 2025 [Aresty Summer Science](https://aresty.rutgers.edu/programs/summer-science-program) scholar to further explore these interests.
-
-   <br><br> <strong>
-        [LinkedIn](https://www.linkedin.com/in/vickydu216)
-        </strong>'
-  image_width: 60%
-
-Encarnación-Santiago:
-  image_path: /images/members/franchelis_encarnacion-santiago.jpg
-  alt: 'Photo of Franchelis'
-  title: 'Franchelís Encarnación-Santiago'
-  synopsis: 'Franchelís is a second-year Chemistry major at the University of Puerto Rico, with core interests in sustainability, biological conversion, and environmental and biomedical applications. She joined the Li Research Group through the [RISE](https://aresty.rutgers.edu/programs-funding/the-research-intensive-summer-experience) program to expand her research skills and further explore these fields..
-
-   <br><br> <strong>
-        [LinkedIn](https://www.linkedin.com/in/franchel%C3%ADs-m-encarnaci%C3%B3n-santiago-b75422411/)
-        </strong>'
-  image_width: 60%
-
 Hashimoto:
   image_path: /images/members/ella_hashimoto.jpg
   alt: 'Photo of Ella'
@@ -131,6 +109,28 @@ Hashimoto:
 
    <br><br> <strong>
         [LinkedIn](https://www.linkedin.com/in/ella-hashimoto-ba64aa382/)
+        </strong>'
+  image_width: 60%
+
+Maheshwari:
+  image_path: /images/members/nishka_maheshwari.png
+  alt: 'Photo of Nishka'
+  title: 'Nishka Maheshwari'
+  synopsis: 'Nishka is a sophomore majoring in Chemical Engineering at Rutgers University, interested in sustainable energy and biotechnology. She joined the Li Research Group as a 2026–2027 Research Assistant through the [Aresty Research Assistant](https://aresty.rutgers.edu/programs-funding/research-assistant-program) Program to gain hands-on research experience and explore sustainable approaches to converting Sargassum into valuable products.
+   
+   <br><br> <strong>
+        [LinkedIn](https://www.linkedin.com/in/nishka-maheshwari-940573301/)
+        </strong>'
+  image_width: 60%
+
+Thavutam:
+  image_path: /images/members/abhitej_thavutam.jpg
+  alt: 'Photo of Abhitej'
+  title: 'Abhitej Thavutam'
+  synopsis: 'Abhitej is a junior majoring in Computer Science and Data Science at Rutgers University, with interests in artificial intelligence and sustainable technology. He joined the Li Research Group to develop an AI-powered natural-language assistant that makes biorefinery process modeling more accessible.
+   
+   <br><br> <strong>
+        [LinkedIn](https://www.linkedin.com/in/abhitejt/)
         </strong>'
   image_width: 60%
 
@@ -248,16 +248,20 @@ details > summary:hover h2 { color: #A32638; }
 
 ## Undergraduate Researchers
 
-{% include single_left id='Du' %}
-
-{% include single_left id='Encarnación-Santiago' %}
-
 {% include single_left id='Hashimoto' %}
+
+{% include single_left id='Maheshwari' %}
+
+{% include single_left id='Thavutam' %}
 
 
 <details>
 <summary><h2>Alumni</h2></summary>
 <div markdown="1">
+
+[Franchelís Encarnación-Santiago](https://www.linkedin.com/in/franchel%C3%ADs-m-encarnaci%C3%B3n-santiago-b75422411/), Chemistry at University of Puerto Rico, RISE 2026.
+
+[Vicky Du](https://www.linkedin.com/in/vickydu216/), Chemical Engineering, Aresty Summer Science 2025; independent research Fall 2025-Spring 2026.
 
 [Charlotte Orton](https://www.linkedin.com/in/charlotte-orton-1b350b398/), Environmental Chemistry, Honors research/thesis Fall 2024-Spring 2026.
 
