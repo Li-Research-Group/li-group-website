@@ -170,6 +170,9 @@ details > summary:hover h2 { color: #A32638; }
 <div id="gc" style="text-align:center; margin: 1em 0 0;">
   <div style="position:relative; display:inline-block; width:80%; max-width:100%;">
     <div class="gc-slide active">
+      <img src="/images/members/group/fa26.jpg" alt="Group photo Fall 2026">
+    </div>
+    <div class="gc-slide">
       <img src="/images/members/group/yr26.jpg" alt="End of Year 2026">
     </div>
     <div class="gc-slide">
@@ -183,18 +186,24 @@ details > summary:hover h2 { color: #A32638; }
   </div>
   <div style="width:80%; display:inline-block; text-align:left; margin-top:0.4em;">
     <div class="gc-caption active">
+      <i>Group photo for Fall 2026 (<a href='https://www.google.com/maps/d/edit?mid=1ECuaLyOFLiXEr5SvGApKRoUjxC0YdJo&usp=sharing'>where</a> are we from?).</i>
+      <br><b>Back:</b> Yu, Shirui, Basil, Ali, Nizam;
+      <br><b>Front:</b> Nishka, Ella, Yalin, Cesar, Abhitej;
+      <br><b>Not pictured:</b> Ouwen.
+    </div>
+    <div class="gc-caption">
       <i>End-of-year celebration 2026.</i>
     </div>
     <div class="gc-caption">
       <i>Group photo for Fall 2025 (<a href='https://www.google.com/maps/d/edit?mid=1ECuaLyOFLiXEr5SvGApKRoUjxC0YdJo&usp=sharing'>where</a> are we from?).</i>
-      <br><b>Front:</b> Vicky, Yu, Shirui, Charlotte, Marali;
       <br><b>Back:</b> Ali, Basil, Yalin, Nizam;
+      <br><b>Front:</b> Vicky, Yu, Shirui, Charlotte, Marali;
       <br><b>Not pictured:</b> Ouwen.
     </div>
     <div class="gc-caption">
       <i>Group photo for Fall 2024 (<a href='https://www.google.com/maps/d/edit?mid=1ECuaLyOFLiXEr5SvGApKRoUjxC0YdJo&usp=sharing'>where</a> are we from?).</i>
-      <br><b>Front:</b> Naman, Basil, Yalin, Ali;
       <br><b>Back:</b> Jason, Saket, Kevin (Washington and Lee University);
+      <br><b>Front:</b> Naman, Basil, Yalin, Ali;
       <br><b>Not pictured:</b> Maggie, Charlotte, Xavier, Venus, Jonah.
     </div>
   </div>
@@ -202,6 +211,7 @@ details > summary:hover h2 { color: #A32638; }
     <span class="gc-dot active" onclick="gcGoto(0)"></span>
     <span class="gc-dot" onclick="gcGoto(1)"></span>
     <span class="gc-dot" onclick="gcGoto(2)"></span>
+    <span class="gc-dot" onclick="gcGoto(3)"></span>
   </div>
 </div>
 
