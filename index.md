@@ -11,7 +11,7 @@ qsdsan:
   image_path: /images/index/qsdsan.png
   alt: 'Logo of QSDsan'
   title: 'The QSDsan Platform'
-  synopsis: 'QSDsan is an open-source platform in Python that integrates system design, process modeling, simulation, TEA, and LCA under uncertainty. Systems developed using QSDsan are deposited in the [EXPOsan](https://github.com/QSD-Group/EXPOsan) (exposition) repository. We also contribute to the development of other open-source tools for water and wastewater treatment, including [WaterTAP](https://watertap.readthedocs.io) funded by the National Alliance for Water Innovation (NAWI). Efforts are also underway to integrate decision-making and optimization capacities (leveraging [DMsan](https://github.com/qsD-Group/DMsan)) as well as to develop interactive education modules.'
+  synopsis: 'QSDsan is an open-source platform in Python that integrates system design, process modeling, simulation, TEA, and LCA under uncertainty for water resource recovery facilities. Systems developed using QSDsan are deposited in the [EXPOsan](https://github.com/QSD-Group/EXPOsan) repository. Efforts are also underway to develop interactive education modules for water and wastewater treatment and sustainable design.'
   image_width: 100%
   btn_num: 1
   btn_url1: 'https://qsdsan.com'
@@ -23,7 +23,7 @@ biosteam:
   image_path: /images/index/biosteam.png
   alt: 'Logo of BioSTEAM'
   title: 'The BioSTEAM Platform'
-  synopsis: 'Supported by the Center for Advanced Bioenergy and Bioproducts Innovation ([CABBI](https://cabbi.bio)), BioSTEAM enables the design, simulation, TEA, and LCA of biorefineries under uncertainty. It has been used by researchers across the world to design assess the sustainability of novel feedstocks and emerging bioproducts. Work is also underway to connect BioSTEAM with upstream ecosystem and logistic models to enable dynamic, high-resolution, and spatiotemporally resolved field-to-refinery modeling framework.'
+  synopsis: 'BioSTEAM enables the design, simulation, TEA, and LCA of biorefineries under uncertainty. It has been used by researchers across the world to design and assess the sustainability of novel feedstocks and emerging bioproducts.'
   image_width: 60%
   btn_num: 1
   btn_url1: 'https://biosteam.readthedocs.io'
@@ -47,7 +47,7 @@ The Li Research Group in the Department of [Civil and Environmental Engineering]
 
 ## Experimentation
 
-Toward experimentation, we are particularly interested in resource recovery from wet organic wastes. Characterized by their large quantities and heterogenic nature, organic wastes are challenging to valorize but have the potential to realize cost and environmental positive management through tailored processes. For example, hydrothermal technologies (e.g., hydrothermal liquefaction, HTL; catalytic hydrothermal gasification, CHG) have emerged as promising alternatives for such application due to their unique suitability for processing high-moisture and complex wastes with simultaneous destruction of emerging contaminants (e.g., per- and polyfluoroalkyl substances, PFASs). Within this theme, we have investigated the valorization of multiple feedstocks (e.g., algae; wastewater sludge; fat, oil, and grease) for the production of biofuels, fertilizers, and platform chemicals.
+Toward experimentation, we are particularly interested in resource recovery from wet organic wastes. Characterized by their large quantities and heterogenic nature, organic wastes are challenging to valorize but have the potential to realize cost and environmental positive management through tailored processes. For example, hydrothermal technologies (e.g., hydrothermal liquefaction, HTL; catalytic hydrothermal gasification, CHG) have emerged as promising alternatives for such application due to their unique suitability for processing high-moisture and complex wastes with simultaneous destruction of emerging contaminants (e.g., per- and polyfluoroalkyl substances, PFASs). Within this theme, we have investigated the valorization of multiple feedstocks (e.g., algae, food waste, wastewater sludge) for the production of biofuels, fertilizers, and platform chemicals.
 
 
 ## Sustainable Design & Systems Analysis
@@ -56,7 +56,7 @@ With the experimental foundation, we leverage the quantitative sustainable desig
 
 To enable the execution of QSD and inform decision-making, we also develop multiple open-source platforms (e.g., QSDsan for sanitation and resource recovery systems; BioSTEAM for biorefineries) for system design, simulation, as well as sustainability characterization (e.g., through TEA and LCA).
 
-The wide applicability of the QSD methodology allows us to collaborate with researchers from multiple disciplines (e.g., agronomics, ecosystem, genomics, chemical and metabolic engineering) and characterize the sustainability of interdisciplinary systems, identify gaps and bottlenecks, prioritize research directions, and set explicit targets.
+The wide applicability of the QSD methodology allows us to collaborate with researchers from multiple disciplines (e.g., chemical and metabolic engineering, material sciences and engineering, agricultural and biologicla engineering) and characterize the sustainability of interdisciplinary systems, identify gaps and bottlenecks, prioritize research directions, and set explicit targets.
 
 ## Open-Source Platforms
 
