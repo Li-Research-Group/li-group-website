@@ -11,6 +11,12 @@ header:
 <summary><h3>2026</h3></summary>
 <div markdown="1">
 
+**[Oct. 2026]** [**Ali**](/members#graduate-students) was awarded the Rutgers Climate and Energy Institute's [student travel grant](https://rcei.rutgers.edu/resources/student-support-program/) for his upcoming trip to the [2026 AIChE Annual Meeting](https://www.aiche.org/conferences/aiche-annual-meeting/2026) on Nov. 8-12, in Minneapolis. Congrats Ali!
+{: .notice--green}
+
+**[Oct. 2026]** Recordings available for the two-session virtual QSDsan workshop on October 20 and 27! Thank you to everyone who registered and joined. [Session 1](https://youtu.be/YrBc9CSg9kU) covered the basics: building components, streams, unit operations, and systems, followed by cost and environmental impact analysis through TEA and LCA. [Session 2](https://youtu.be/7zbhwiWNN-A) moved to advanced topics: uncertainty and sensitivity analysis, followed by a primer on dynamic simulation. All workshop materials can be found in the [QSDsan-workshop](https://github.com/QSD-Group/QSDsan-workshop) repo. Join QSDsan's [Google Group](https://groups.google.com/g/qsdsan) for updates and events annoncement.
+{: .notice--yellow}
+
 **[Sept. 2026]** This new year, we welcome [**Nishka** and **Abhitej**](/members#undergraduate-researchers) in the group. Nishka will join the SaBRe team to continue develop anaerobic and hydrothermal technologies for valuable projects from Sargassum, and Abhitej will work to develop for a more accesible interface to the open-source software [BioSTEAM](https://biosteam.readthedocs.io/en/latest/).
 {: .notice--blue}
 
