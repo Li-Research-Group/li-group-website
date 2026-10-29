@@ -5,36 +5,9 @@ permalink: /teaching/
 header:
   overlay_image: /images/splash.png
   text_color: black
-
-aeesp:
-  image_path: /images/teaching/aeesp.png
-  alt: 'AEESP Workshop'
-  title: 'QSD Workshop in AEESP Research and Education Conference'
-  synopsis: 'During the 2022 [Association of Environmental Engineering and Science Professors (AEESP) Research and Education Conference](https://aeesp2022.wustl.edu), we hosted a workshop on Quantitative Sustainable Design (QSD). In this workshop, we familiarize participants with a structured approach to sustainable design (QSD) and provide experience in leveraging QSD to generate insight in their domains of interest.'
-  image_width: 90%
-  btn_num: 1
-  btn_url1: 'https://uofi.box.com/s/o8vvpxzhydd3g7qw9i4zljzc13kygmd4'
-  btn_class1: 'btn--primary btn--large'
-  btn_label1: 'Workshop Materials'
-  line: true
-
-ees:
-  image_path: /images/teaching/ees.png
-  alt: 'EES Symposium Workshop'
-  title: 'QSDsan Workshop in EES Symposium'
-  synopsis: 'We hosted an entry-level workshop of QSDsan during the [27th Environmental Engineering and Science Symposium](https://publish.illinois.edu/2022-environmentalsymposium/) at the University of Illinois Urbana-Champaign. In this workshop, attendees could interact with QSDsan through [Binder](https://mybinder.org/) without any local installation and prior knowledge on programming.'
-  image_width: 60%
-  btn_num: 2
-  btn_url1: 'https://github.com/QSD-Group/QSDsan-workshop'
-  btn_class1: 'btn--primary btn--large'
-  btn_label1: 'Workshop Materials'
-  btn_url2: 'https://youtu.be/cO3LZpwOit8'
-  btn_class2: 'btn--primary btn--large'
-  btn_label2: 'Video Recording'
-  line: true
 ---
 
-## Course Instructed
+## Course and Workshops
 
 ### 14:180:429/16:180:562 Water and Wastewater Treatment
 
@@ -43,12 +16,20 @@ This course ([syllabus](https://drive.google.com/file/d/19XzQ_lioHbF59835jCJ6B5m
 <br>
 <img src='/images/teaching/water_wastewater_treatment.png#center' alt='Water and Wastewater Treatment' width='60%' id='image'>
 
+### 11:117:333 Environmental Engineering Analysis Tools
+
+This course ([syllabus](https://drive.google.com/file/d/1h4p2mwM5upQ1TxUCPCIX9dczW7-PTzBg/view?usp=sharing)) applies state-of-the-art environmental engineering tools in analyzing problems and creating solutions and designs. Tools may vary with current engineering practice, but generally cover applications for automated data organization, statistical analysis, modeling, and visualization.
+
 ### 16:180:611 Sustainable Design
 
 Through this course ([flyer](https://drive.google.com/file/d/1t_jPm0EzRcYOeHgUdtjyL_ZtY4LEXUyR/view?usp=sharing); [syllabus](https://drive.google.com/file/d/1X2lymRGmW4bngyPC34sctMACFFi6wT9n/view?usp=sharing)), students will develop an understanding of quantitative sustainable design (QSD) and how to navigate engineering decision-making. Students will learn methods and tools for economic (techno-economic analysis, TEA; life cycle costing, LCC) and environmental (life cycle assessment, LCA) sustainability assessments, and how to link these tools to engineering design decisions under uncertainty. Students will apply these tools to design their engineered systems of interest, with special attention to water and energy infrastructure, water quality processes, resource recovery, green chemistry, and bioenergy/bioproducts.
 
 <br>
 <img src='/images/teaching/sustainable_design.png#center' alt='Quantitative Sustainable Design' width='50%' id='image'>
+
+### Workshops
+
+I also host workshops related to the open-source platforms and how they can be used for education. Check out some examples on [QSDsan's website](https://qsdsan.com/).
 
 ---
 
@@ -57,15 +38,6 @@ Through this course ([flyer](https://drive.google.com/file/d/1t_jPm0EzRcYOeHgUdt
 AI-assisted coding tools (e.g., [Claude Code](https://code.claude.com/docs), [Codex](https://developers.openai.com/codex)) have made programming more accessible, and I see them as a valuable aid for students and researchers - particularly those without an extensive coding background. When used thoughtfully (and full acknowledging that AI makes mistakes despite sounding confident), these tools can help explain unfamiliar code, navigate how data flows through a program, and accelerate everyday scientific work. Of course. To help others get started, I have put together an entry-level guide that introduces the core concepts, walks through setting up these tools in VS Code, and illustrates what a first working session looks like, with the help of both Claude Code and Codex.
 
 <a href="{{ '/teaching/ai-coding-entry-guide.html' | relative_url }}" class="btn btn--primary btn--large">AI-Assisted Coding: An Entry Guide</a>
-
-
-## Workshop Modules
-
-I see tremendous potentials in leveraging the open-source platforms developed in my research to build interactive modules to be used in the classroom. My goal is to make these experiences accessible to everyone - regardless of individuals' programing skills.
-
-{% include single_left id='aeesp' %}
-
-{% include single_right id='ees' %}
 
 
 ## New Jersey Bioenergy Potential
