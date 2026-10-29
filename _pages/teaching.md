@@ -7,7 +7,7 @@ header:
   text_color: black
 ---
 
-## Course and Workshops
+## Courses and Workshops
 
 ### 14:180:429/16:180:562 Water and Wastewater Treatment
 
