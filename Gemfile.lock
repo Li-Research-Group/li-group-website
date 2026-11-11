@@ -277,8 +277,7 @@ GEM
       sawyer (~> 0.9)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
-    prism (2.1.0-x64-mingw-ucrt)
-    prism (2.1.0-x86_64-linux-gnu)
+    prism (2.1.0)
     progressbar (1.13.0)
     public_suffix (5.1.1)
     racc (1.8.1)
@@ -312,6 +311,7 @@ GEM
     unicode-display_width (1.8.0)
     uri (1.1.2)
     verbal_expressions (0.1.5)
+    wdm (0.2.0)
     webrick (1.9.1)
 
 PLATFORMS
@@ -333,6 +333,7 @@ DEPENDENCIES
   kramdown-parser-gfm
   minimal-mistakes-jekyll
   tzinfo-data
+  wdm (>= 0.1.0)
   webrick (~> 1.8)
 
 BUNDLED WITH
