@@ -14,7 +14,7 @@ GEM
       securerandom (>= 0.3)
       tzinfo (~> 2.0, >= 2.0.5)
       uri (>= 0.13.1)
-    addressable (2.9.0)
+    addressable (2.9.1)
       public_suffix (>= 2.0.2, < 8.0)
     algolia_html_extractor (2.6.4)
       json (~> 2.0)
@@ -311,7 +311,6 @@ GEM
     unicode-display_width (1.8.0)
     uri (1.1.2)
     verbal_expressions (0.1.5)
-    wdm (0.2.0)
     webrick (1.9.1)
 
 PLATFORMS
@@ -333,7 +332,6 @@ DEPENDENCIES
   kramdown-parser-gfm
   minimal-mistakes-jekyll
   tzinfo-data
-  wdm (>= 0.1.0)
   webrick (~> 1.8)
 
 BUNDLED WITH
